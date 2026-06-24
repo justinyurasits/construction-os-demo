@@ -1,0 +1,29 @@
+======================================================================
+                           JOB COST REPORT                            
+                       Beacon Hill Cedar Closet                       
+======================================================================
+Budget: $5,000.00    Line items: 5
+
+RECEIPTS (sorted by date)
+----------------------------------------------------------------------
+Date        Vendor           Description                   Amount    Running
+----------------------------------------------------------------------
+2026-05-28  Home Depot       Cedar planks 8ft x 6         $127.50    $127.50
+2026-05-28  Home Depot       Wood screws 2in box           $12.99    $140.49
+2026-05-28  Home Depot       Sandpaper assorted             $8.47    $148.96
+2026-05-28  Home Depot       Polyurethane finish qt        $24.99    $173.95
+2026-05-28  Home Depot       Paint brushes set             $15.99    $189.94
+----------------------------------------------------------------------
+TOTAL SPEND                                               $189.94
+
+SPEND BY CATEGORY
+----------------------------------------------------------------------
+  (no 'category' column in the source data -- not available)
+
+BUDGET STATUS
+----------------------------------------------------------------------
+  Spent:           $189.94  (3.8% of budget)
+  Budget:        $5,000.00
+  Remaining:     $4,810.06
+  Status:     ON TRACK
+======================================================================

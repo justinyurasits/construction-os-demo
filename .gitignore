@@ -1,0 +1,14 @@
+# Runtime data — regenerated or ephemeral, not source
+flask_sessions/
+
+# Secrets / environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS noise
+.DS_Store
